@@ -1,0 +1,5 @@
+This is another testfile.
+It can be used for testing in ex20.
+In ex20 we learn about functions and files.
+Specifically, how to write functions to interact with files like this one.
+
